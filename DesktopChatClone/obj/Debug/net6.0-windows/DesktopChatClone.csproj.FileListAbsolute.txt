@@ -4,11 +4,13 @@ C:\src\Projects\DesktopChatClone\DesktopChatClone\bin\Debug\net6.0-windows\Deskt
 C:\src\Projects\DesktopChatClone\DesktopChatClone\bin\Debug\net6.0-windows\DesktopChatClone.dll
 C:\src\Projects\DesktopChatClone\DesktopChatClone\bin\Debug\net6.0-windows\DesktopChatClone.pdb
 C:\src\Projects\DesktopChatClone\DesktopChatClone\obj\Debug\net6.0-windows\DesktopChatClone.csproj.AssemblyReference.cache
+C:\src\Projects\DesktopChatClone\DesktopChatClone\obj\Debug\net6.0-windows\Themes\ContactCard.baml
 C:\src\Projects\DesktopChatClone\DesktopChatClone\obj\Debug\net6.0-windows\MainWindow.g.cs
 C:\src\Projects\DesktopChatClone\DesktopChatClone\obj\Debug\net6.0-windows\App.g.cs
 C:\src\Projects\DesktopChatClone\DesktopChatClone\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
 C:\src\Projects\DesktopChatClone\DesktopChatClone\obj\Debug\net6.0-windows\DesktopChatClone_MarkupCompile.cache
 C:\src\Projects\DesktopChatClone\DesktopChatClone\obj\Debug\net6.0-windows\DesktopChatClone_MarkupCompile.lref
+C:\src\Projects\DesktopChatClone\DesktopChatClone\obj\Debug\net6.0-windows\App.baml
 C:\src\Projects\DesktopChatClone\DesktopChatClone\obj\Debug\net6.0-windows\MainWindow.baml
 C:\src\Projects\DesktopChatClone\DesktopChatClone\obj\Debug\net6.0-windows\DesktopChatClone.g.resources
 C:\src\Projects\DesktopChatClone\DesktopChatClone\obj\Debug\net6.0-windows\DesktopChatClone.GeneratedMSBuildEditorConfig.editorconfig

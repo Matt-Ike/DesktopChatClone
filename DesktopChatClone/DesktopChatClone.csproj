@@ -12,7 +12,6 @@
     <Folder Include="MVVM\View\" />
     <Folder Include="Icons\" />
     <Folder Include="Core\" />
-    <Folder Include="Themes\" />
   </ItemGroup>
 
 </Project>

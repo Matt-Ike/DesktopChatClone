@@ -23,7 +23,7 @@ namespace DesktopChatClone.MVVM.ViewModel
 				{
 					Username = "Allison",
 					UsernameColor = "#409aff",
-					ImageSource = "https://unsplash.com/photos/0Zx1bDv5BNY",
+					ImageSource = "https://i.imgur.com/yMWvLXd.png",
 					Message = $"Test-{i}",
 					Time = DateTime.Now,
 					IsNativeOrigin = false,
@@ -37,7 +37,7 @@ namespace DesktopChatClone.MVVM.ViewModel
 				{
 					Username = "Tommy",
 					UsernameColor = "#409aff",
-					ImageSource = "https://unsplash.com/photos/7YVZYZeITc8",
+					ImageSource = "https://i.imgur.com/yMWvLXd.png",
 					Message = $"Test-{i}",
 					Time = DateTime.Now,
 					IsNativeOrigin = false
@@ -48,7 +48,7 @@ namespace DesktopChatClone.MVVM.ViewModel
 			{
 				Username = "Tommy",
 				UsernameColor = "#409aff",
-				ImageSource = "https://unsplash.com/photos/7YVZYZeITc8",
+				ImageSource = "https://i.imgur.com/yMWvLXd.png",
 				Message = $"Testing",
 				Time = DateTime.Now,
 				IsNativeOrigin = false
@@ -59,7 +59,7 @@ namespace DesktopChatClone.MVVM.ViewModel
 				Contacts.Add(new ContactModel
 				{
 					Username = $"Genevieve {i}",
-					ImageSource = "https://unsplash.com/photos/Fyl8sMC2j2Q",
+					ImageSource = "https://i.imgur.com/yMWvLXd.png",
 					Messages = Messages
 				});
 			}

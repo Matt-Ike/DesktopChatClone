@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\src\Projects\DesktopChatClone\DesktopChatClone\App.xaml
-2128708656
+4351067607
 
 6-1694471476
 1941675070116
-MainWindow.xaml;Themes\ContactCard.xaml;
+MainWindow.xaml;Themes\ChatItem.xaml;Themes\ContactCard.xaml;Themes\MessageBox.xaml;
 
 False
 

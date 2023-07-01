@@ -22,3 +22,5 @@ C:\src\Projects\DesktopChatClone\DesktopChatClone\obj\Debug\net6.0-windows\refin
 C:\src\Projects\DesktopChatClone\DesktopChatClone\obj\Debug\net6.0-windows\DesktopChatClone.pdb
 C:\src\Projects\DesktopChatClone\DesktopChatClone\obj\Debug\net6.0-windows\DesktopChatClone.genruntimeconfig.cache
 C:\src\Projects\DesktopChatClone\DesktopChatClone\obj\Debug\net6.0-windows\ref\DesktopChatClone.dll
+C:\src\Projects\DesktopChatClone\DesktopChatClone\obj\Debug\net6.0-windows\Themes\ChatItem.baml
+C:\src\Projects\DesktopChatClone\DesktopChatClone\obj\Debug\net6.0-windows\Themes\MessageBox.baml
